@@ -15,7 +15,7 @@ public class Aron {
 		
 	Aron a = new Aron();
 	
-	a.getMessage("Guys","ok","Wow","nice","chii");
+	a.getMessage("Guys","Wow","nice","chii");
 		
 		System.out.println("Final value :"+a.multi(5, 8));
 		
